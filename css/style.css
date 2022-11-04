@@ -150,6 +150,10 @@ footer {
     min-height: 260px;
 }
 
+.google__aviso {
+    font-size: 1.2rem;
+}
+
 .barra-fotter + div {
     padding: 15px 30px;
     border-bottom: 1px solid #dadce0;
